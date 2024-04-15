@@ -1,2 +1,0 @@
-This is a simple Text File, Text is ok
-ls

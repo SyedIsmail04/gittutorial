@@ -1,2 +1,3 @@
 This is a simple Text File, Text is ok
 ls
+updating directly on remote repo
